@@ -1,0 +1,42 @@
+.jumbotron {
+    background: url('images/header.jpg') center;
+    height: 20em;
+    font-family: 'Amatic SC', cursive;
+    color: white;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 15px 0;
+}
+
+body{
+    background: rgb(217, 209, 209);
+    font-family: 'Staatliches', cursive;
+}
+
+
+.form-box {
+   padding: .5em 2em;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+
+
+
+
+ /* !!! Tips from Zach on 28 JAN 2021 !!!
+
+https://developer.mozilla.org/en-us/docs/Web/API/Element/classList
+
+St like div.classList.add("col-md-6")
+
+*/
+
+/*
+SEE BELOW LINK FOR CSS INVOLVING AUTOCOMPLETE IF NEEDED
+https://www.w3schools.com/howto/howto_js_autocomplete.asp
+ */
